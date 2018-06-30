@@ -1,0 +1,25 @@
+{
+  "name": "curl-transaction-ccurl-impl",
+  "version": "1.0.0",
+  "description": "ccurl implementation for curl-transaction-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/curl-transaction-ccurl-impl.git"
+  },
+  "keywords": [
+    "IOTA"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/curl-transaction-ccurl-impl/issues"
+  },
+  "homepage": "https://github.com/pRizz/curl-transaction-ccurl-impl#readme",
+  "dependencies": {
+    "ccurl-prizz": "github:pRizz/ccurl#npm-package"
+  }
+}
